@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-20T09:55:23.821+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/api/posts"
+}

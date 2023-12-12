@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165c78b2-2fa7-4d49-a794-6fc3624d5828" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="HTTP Request" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;georgivv7&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1702313769" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ac3dfffe-9d22-4f31-968f-4bc65a66676b" />
+        <option name="url" value="https://github.com/georgivv7/music-player-app.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/dev/georgi/musicplayerbackendnew/dto/ArtistDTO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/dev/georgi/musicplayerbackendnew/dto/artist/FluffyAttributes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/dev/georgi/musicplayerbackendnew/service/ArtistService.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YOqbVH9ezSNKgONV18fQxbJLTD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "JUnit.ArtistControllerTest.executor": "Run",
+    "JUnit.ArtistControllerTest.testArtistController.executor": "Run",
+    "JUnit.ArtistServiceTest.executor": "Run",
+    "JUnit.ArtistServiceTest.test_fetch_artist_data_successfully.executor": "Run",
+    "JUnit.ArtistServiceTest.test_handle_invalid_artist_id.executor": "Run",
+    "JUnit.ChartControllerTest.executor": "Run",
+    "JUnit.ChartControllerTest.testArtistController.executor": "Run",
+    "JUnit.ChartServiceDiffblueTest.testFetchTopCharts.executor": "Run",
+    "JUnit.ChartServiceTest.executor": "Run",
+    "JUnit.ChartServiceTest.testFetchTopCharts.executor": "Run",
+    "JUnit.DiscoverControllerTest.executor": "Run",
+    "JUnit.DiscoverServiceTest.executor": "Run",
+    "JUnit.SearchControllerTest.executor": "Run",
+    "JUnit.SearchServiceTest.executor": "Run",
+    "JUnit.SearchServiceTest.test_fetches_search_results.executor": "Run",
+    "JUnit.ShazamAPIServiceTest.executor": "Run",
+    "JUnit.ShazamAPIServiceTest.testShazamAPIService.executor": "Run",
+    "JUnit.ShazamAPIServiceTest.testShazamAPIServiceConstruction.executor": "Run",
+    "JUnit.SongControllerTest.SongController_FetchRelatedSongDetails.executor": "Run",
+    "JUnit.SongControllerTest.SongController_FetchSongDetails.executor": "Run",
+    "JUnit.SongControllerTest.SongController_FetchSongDetailsAroundYou.executor": "Run",
+    "JUnit.SongControllerTest.executor": "Run",
+    "JUnit.SongServiceTest.executor": "Run",
+    "JUnit.SongServiceTest.test_fetch_related_songs_successfully.executor": "Run",
+    "JUnit.SongServiceTest.test_fetch_song_details_successfully.executor": "Run",
+    "JUnit.SongServiceTest.test_fetch_songs_around_you_successfully.executor": "Run",
+    "JUnit.SongServiceTest.test_invalid_song_id_returns_error.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-File Watcher Messages": "File system synchronization issues detected",
+    "Notification.DoNotAsk-File Watcher Messages": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/georgi/IdeaProjects/Full-stack-music-player-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dev.georgi.musicplayerbackendnew.dto.artist" />
+      <recent name="dev.georgi.musicplayerbackendnew.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dev/georgi/musicplayerbackendnew" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dev.georgi.musicplayerbackendnew.service" />
+      <recent name="dev.georgi.musicplayerbackendnew.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.georgi.musicplayerbackendnew.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="DiscoverServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.georgi.musicplayerbackendnew.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.georgi.musicplayerbackendnew.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.georgi.musicplayerbackendnew.service.DiscoverServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.georgi.musicplayerbackendnew.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.georgi.musicplayerbackendnew.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.georgi.musicplayerbackendnew.service.SearchServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShazamAPIServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.georgi.musicplayerbackendnew.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.georgi.musicplayerbackendnew.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.georgi.musicplayerbackendnew.service.ShazamAPIServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.georgi.musicplayerbackendnew.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.georgi.musicplayerbackendnew.controller" />
+      <option name="MAIN_CLASS_NAME" value="dev.georgi.musicplayerbackendnew.controller.SongControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.georgi.musicplayerbackendnew.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.georgi.musicplayerbackendnew.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.georgi.musicplayerbackendnew.service.SongServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="music-player-backend-new" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.georgi.musicplayerbackendnew.Application" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="true" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="true" />
+        <option name="IS_IGNORE_MISSING_FILES" value="true" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="true" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+          <ENTRY IS_ENABLED="true" PARSER="env" IS_EXECUTABLE="false" PATH="src/main/resources/dev.env" />
+        </ENTRIES>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DiscoverServiceTest" />
+      <item itemvalue="JUnit.SearchServiceTest" />
+      <item itemvalue="JUnit.ShazamAPIServiceTest" />
+      <item itemvalue="JUnit.SongControllerTest" />
+      <item itemvalue="JUnit.SongServiceTest" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SongServiceTest" />
+        <item itemvalue="JUnit.ShazamAPIServiceTest" />
+        <item itemvalue="JUnit.SearchServiceTest" />
+        <item itemvalue="JUnit.DiscoverServiceTest" />
+        <item itemvalue="JUnit.SongControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-86fc8109" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-920bfa72" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165c78b2-2fa7-4d49-a794-6fc3624d5828" name="Changes" comment="" />
+      <created>1700407077803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700407077803</updated>
+      <workItem from="1700407078824" duration="799000" />
+      <workItem from="1700408284546" duration="453000" />
+      <workItem from="1700408754430" duration="1478000" />
+      <workItem from="1700410304883" duration="184000" />
+      <workItem from="1700474052941" duration="5985000" />
+      <workItem from="1700496042682" duration="566000" />
+      <workItem from="1700498213788" duration="3111000" />
+      <workItem from="1700502790055" duration="1405000" />
+      <workItem from="1700571590737" duration="4140000" />
+      <workItem from="1700581717381" duration="4118000" />
+      <workItem from="1700661821683" duration="12110000" />
+      <workItem from="1700730909026" duration="11272000" />
+      <workItem from="1700842481531" duration="2818000" />
+      <workItem from="1700851521250" duration="2435000" />
+      <workItem from="1700902129264" duration="1403000" />
+      <workItem from="1700904345669" duration="1384000" />
+      <workItem from="1700905987321" duration="852000" />
+      <workItem from="1700906885360" duration="686000" />
+      <workItem from="1700988116824" duration="951000" />
+      <workItem from="1700989459622" duration="253000" />
+      <workItem from="1700989732494" duration="1122000" />
+      <workItem from="1700993399877" duration="299000" />
+      <workItem from="1701075041896" duration="24000" />
+      <workItem from="1701085733158" duration="5644000" />
+      <workItem from="1701168003620" duration="3467000" />
+      <workItem from="1701179899017" duration="1810000" />
+      <workItem from="1701271416431" duration="313000" />
+      <workItem from="1701334915182" duration="2951000" />
+      <workItem from="1701348637626" duration="2812000" />
+      <workItem from="1701420655132" duration="3343000" />
+      <workItem from="1701440967583" duration="2009000" />
+      <workItem from="1701451045387" duration="665000" />
+      <workItem from="1701506123283" duration="915000" />
+      <workItem from="1701541284516" duration="630000" />
+      <workItem from="1701543788353" duration="1262000" />
+      <workItem from="1701594758448" duration="57000" />
+      <workItem from="1701594830556" duration="2369000" />
+      <workItem from="1701597544197" duration="3406000" />
+      <workItem from="1701609130259" duration="1890000" />
+      <workItem from="1701628287762" duration="324000" />
+      <workItem from="1701679455657" duration="13219000" />
+      <workItem from="1701712328896" duration="1212000" />
+      <workItem from="1701763154310" duration="1241000" />
+      <workItem from="1701764756492" duration="1620000" />
+      <workItem from="1701766412055" duration="14688000" />
+      <workItem from="1701854604710" duration="7507000" />
+      <workItem from="1701939539702" duration="1267000" />
+      <workItem from="1701944153398" duration="10311000" />
+      <workItem from="1701968240561" duration="1374000" />
+      <workItem from="1702036640043" duration="2338000" />
+      <workItem from="1702038993597" duration="20000" />
+      <workItem from="1702114797173" duration="23000" />
+      <workItem from="1702197773272" duration="1019000" />
+      <workItem from="1702203398549" duration="663000" />
+      <workItem from="1702204174365" duration="798000" />
+      <workItem from="1702217852180" duration="241000" />
+      <workItem from="1702218116269" duration="1611000" />
+      <workItem from="1702219747104" duration="1571000" />
+      <workItem from="1702221333136" duration="1000" />
+      <workItem from="1702221603977" duration="2039000" />
+      <workItem from="1702227595066" duration="259000" />
+      <workItem from="1702227919417" duration="2549000" />
+      <workItem from="1702294901912" duration="982000" />
+      <workItem from="1702306385855" duration="5766000" />
+      <workItem from="1702313037351" duration="864000" />
+      <workItem from="1702313928354" duration="182000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit &quot;Resource Server&quot;">
+      <option name="closed" value="true" />
+      <created>1702222932331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702222932331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit &quot;Resource Server&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit &quot;Resource Server&quot;" />
+  </component>
+</project>
