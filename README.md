@@ -60,7 +60,6 @@ This project demonstrates a secure architecture for building a web application u
 ![Artist Details](snapshots/artist-details.png?raw=true "Artist Details")
 ![Song Details](snapshots/song-details.png?raw=true "Song Details")
 ![Search results](snapshots/search-results.png?raw=true "Search results")
-![Music player](snapshots/music-player.png?raw=true "Music player")
 </details>
 
 ### REST API Specification
