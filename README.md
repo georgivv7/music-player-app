@@ -57,7 +57,10 @@ This project demonstrates a secure architecture for building a web application u
 ![Around you](snapshots/around-you-snapshot.png?raw=true "Around you")
 ![Top Artists](snapshots/top-artists-snapshot.png?raw=true "Top Artists")
 ![Top Charts](snapshots/top-charts-snapshot.png?raw=true "Top Charts")
-
+![Artist Details](snapshots/artist-details.png?raw=true "Artist Details")
+![Song Details](snapshots/song-details.png?raw=true "Song Details")
+![Search results](snapshots/search-results.png?raw=true "Search results")
+![Music player](snapshots/music-player.png?raw=true "Music player")
 </details>
 
 ### REST API Specification
