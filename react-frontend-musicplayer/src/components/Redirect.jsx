@@ -14,7 +14,6 @@ function Redirect() {
   useEffect(() => {
     if(!searchParams?.get('code')){           
      
-      //http://localhost:8080/oauth2/authorize?response_type=code&client_id=clientapp&scope=openid profile user.read&redirect_uri=http://localhost:3000/authorized&code_challenge=${codeChallenge}&code_challenge_method=S256`
       window.location.href = authorize();
     }
   },[]);
@@ -24,13 +23,12 @@ function Redirect() {
       if(searchParams?.get('code')){
           window.sessionStorage.setItem('code', searchParams.get('code'));
 
-          const client = 'clientapp';
-          const secret = 'secret';
+          const client = `${import.meta.env.CLIENT}`;
+          const secret = `${import.meta.env.SECRET}`;
           const headers = new Headers();
           headers.append('Content-type', 'application/json');
           headers.append('Authorization', `Basic ${Buffer.from(`${client}:${secret}`).toString('base64')}`);
 
-          //http://localhost:8080/oauth2/token?client_id=clientapp&redirect_uri=http://localhost:3000/authorized&grant_type=authorization_code&code=${code}&code_verifier=${code_verifier}`
           const url = token();
 
           fetch(url, {
